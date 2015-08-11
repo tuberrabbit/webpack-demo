@@ -1,0 +1,19 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "study webpack to build a front-end project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuberrabbit/webpack-demo.git"
+  },
+  "author": "tuber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuberrabbit/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/tuberrabbit/webpack-demo"
+}
